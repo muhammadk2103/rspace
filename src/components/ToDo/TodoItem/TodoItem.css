@@ -1,0 +1,15 @@
+.todo-item {
+  margin-bottom: 10px;
+}
+
+.todo-item span {
+  margin-right: 10px;
+}
+
+.todo-item button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
